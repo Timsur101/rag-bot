@@ -1,0 +1,7 @@
+pyTelegramBotAPI
+openai
+langchain
+faiss-cpu
+numpy
+python-dotenv
+pytest
