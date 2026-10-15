@@ -19,7 +19,7 @@
 ## Запуск
 
 ```bash
-git clone https://github.com/SurinTimofey/rag-bot
+git clone https://github.com/Timsur101/rag-bot.git
 cd rag-bot
 
 pip install -r requirements.txt
